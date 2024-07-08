@@ -1,9 +1,7 @@
 # Adachi_REY
 <i> UTAU voicebank by julieraptor</i>
 
-Thank you for downloading **ADACHI_REY (足立霊 / Adachi Ryou)**.
-<br>
-If you make a cover with **Adachi_REY**, please tag @ChulieChu on Twitter!
+Thank you for using **ADACHI_REY (足立霊 / Adachi Ryou)**. If you make a cover with **Adachi_REY**, please tag @ChulieChu on Twitter!
 <br>
 To download, navigate to **Releases** on the right-hand side and choose **Adachi_REY-CV-v1.0**.
 
