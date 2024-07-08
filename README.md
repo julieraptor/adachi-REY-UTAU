@@ -3,7 +3,7 @@
 
 Thank you for using **ADACHI_REY (足立霊 / Adachi Ryou)**. If you make a cover with **Adachi_REY**, please tag @ChulieChu on Twitter!
 <p>
-To download, navigate to **Releases** on the right-hand side and choose **Adachi_REY-CV-v1.0**.
+To download, navigate to <b>Releases</b> on the right-hand side and choose <b>Adachi_REY-CV-v1.0</b>.
 
 <p align="center">
 <img src ="https://github.com/julieraptor/adachi-REY-UTAU/blob/main/art/adachiREY_fullbody.png" height="600" />
