@@ -8,16 +8,16 @@ If you make a cover with **Adachi_REY**, please tag @ChulieChu on Twitter!
 To download, navigate to **Releases** on the right-hand side and choose **Adachi_REY-CV-v1.0**.
 
 <p align="center">
-<img src ="https://github.com/julieraptor/CHIP-UTAU/blob/main/art/Chip.png?raw=true" height="600" />
+<img src ="https://github.com/julieraptor/adachi-REY-UTAU/blob/main/art/adachiREY_fullbody.png" height="600" />
 <br>
 <i>Official Art by julieraptor</i>
 </p>
 
 # 【SAMPLE】 
 
-To be uploaded soon
+https://github.com/julieraptor/adachi-REY-UTAU/assets/42128030/190faa7f-ab9e-42a4-bb7b-8ccd00e052f7
 
-Release video: [https://www.youtube.com/watch?v=4j73lz4ff0Y](https://www.youtube.com/watch?v=4j73lz4ff0Y)
+Release video: [https://youtu.be/Wm6lX9Wlb9k](https://youtu.be/Wm6lX9Wlb9k)
 
 # 【NOTES】 
 ### Character Details
@@ -33,7 +33,7 @@ Release video: [https://www.youtube.com/watch?v=4j73lz4ff0Y](https://www.youtube
 
 Doctors and scientists put a dying ballerina in an unfinished robot body because she wanted to keep dancing.
 
-霊 can be read as 'Rei (Rey)' or 'Ryou'.
+霊 can be read as 'Rei (Rey)' or 'Ryou', meaning "ghost".
 
 **ADACHI_REY (足立霊 / Adachi Ryou)** is a fanloid inspired by Adachi Rei, and is a fusion of [LIEE : Immortal Idol](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol) and Adachi Rei's designs and concepts.
 
