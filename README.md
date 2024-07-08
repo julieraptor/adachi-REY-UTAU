@@ -30,6 +30,8 @@ Release video: [https://youtu.be/Wm6lX9Wlb9k](https://youtu.be/Wm6lX9Wlb9k)
 **Configuration:** julieraptor<br>
 
 _Doctors and scientists put a dying ballerina in an unfinished robot body because she wanted to keep dancing._
+<p></p>
+
 霊 can be read as 'Rei (Rey)' or 'Ryou', meaning "ghost".
 
 **ADACHI_REY (足立霊 / Adachi Ryou)** is a fanloid inspired by Adachi Rei, and is a fusion of [LIEE : Immortal Idol](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol) and Adachi Rei's designs and concepts.
