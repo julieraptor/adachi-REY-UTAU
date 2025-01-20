@@ -107,7 +107,6 @@ These terms of use were originally generated with and adapted from https://tools
 
 # 【CONTACT INFORMATION】
 **Please contact Julieraptor for any questions or concerns about this voice model/voicebank.**
- - **Site:** [https://chulieraptor.carrd.co/](https://chulieraptor.carrd.co/)
-- **Twitter:** [@utauraptor](https://twitter.com/utauraptor) [@ChulieChu](https://twitter.com/ChulieChu)
-- **SoundCloud:** [Julieraptor](https://soundcloud.com/julieraptor)
-- **YouTube:** [utauraptor (chulie_chu)](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
+- **Site:** [website](https://julieraptor.carrd.co)
+- **YouTube:** [chulie_chu](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
+- **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
